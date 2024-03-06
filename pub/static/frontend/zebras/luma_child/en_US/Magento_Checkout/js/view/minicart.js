@@ -1,0 +1,1 @@
+/var/www/html/zebras/vendor/magento/module-checkout/view/frontend/web/js/view/minicart.js

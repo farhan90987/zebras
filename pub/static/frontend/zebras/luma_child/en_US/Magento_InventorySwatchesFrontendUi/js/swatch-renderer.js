@@ -1,0 +1,1 @@
+/var/www/html/zebras/vendor/magento/module-inventory-swatches-frontend-ui/view/frontend/web/js/swatch-renderer.js

@@ -1,0 +1,1 @@
+/var/www/html/zebras/vendor/magento/module-theme/view/adminhtml/web/js/form/component/robots-reset-button.js

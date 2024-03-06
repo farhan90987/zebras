@@ -1,0 +1,1 @@
+/var/www/html/zebras/vendor/magento/theme-frontend-blank/Magento_Theme/web/js/theme.js

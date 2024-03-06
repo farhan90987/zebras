@@ -1,0 +1,1 @@
+/var/www/html/zebras/vendor/magento/module-catalog/view/adminhtml/web/catalog/product.js

@@ -1,0 +1,1 @@
+/var/www/html/zebras/vendor/magento/module-ui/view/base/web/js/grid/controls/bookmarks/bookmarks.js
